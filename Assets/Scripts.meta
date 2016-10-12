@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 04fd5545ca16d4b57935a36f4d02cfc1
+labels:
+- waypoints
+- pathfinding
+- a*
+folderAsset: yes
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

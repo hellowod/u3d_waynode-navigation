@@ -1,0 +1,11 @@
+Idle 0-40 true
+Attack 41-70 false
+Walk 71-101 true
+Hit_L 102-117 false
+Hit_R 118-133 false
+Die 134-174 false
+Jifei 175-182 false
+Kongzhongshouji 183-185 false
+Luoxia 186-189 false
+Luodi 190-198 false
+GetUp 199-228 false
